@@ -37,10 +37,10 @@ Diese Liste kann verwendet werden um Spiele auszumustern. Zu jedem Spiel werden 
 Um nicht alle Spiele anzuzeigen können Filter gesetzt werden. Bei den Feldern Altersgruppe und Spielart können die vorgegebenen Werte gewählt werden. Wollen sie nur bestimmte Spielnummern anzeigen, geben Sie einen Nummernbereich ein. Wollen Sie die Spiele nach Namen filtern, so geben sie den vollen oder den Anfang des Spiel-Namens ein. Es werden dann alle Spiele, welche wie der eingetragene Name beginnen angezeigt.
 
 
->>>>>> Wenn Sie eine anders sortierte oder gefilterte Spielliste wollen, so können Sie diese selbst erstellen. Öffnen Sie dazu das Datenblatt Spiele im Statistikfenster um dann die Liste entsprechend zu filtern. Kopieren Sie die Spieldaten aus dem Datenblatt in die Zwischenablage und fügen diese in Word, Excel oder sonst wo wieder ein um die Daten anschliessend zu formatieren oder weiterzuverarbeiten.
+!!!! Wenn Sie eine anders sortierte oder gefilterte Spielliste wollen, so können Sie diese selbst erstellen. Öffnen Sie dazu das Datenblatt Spiele im Statistikfenster um dann die Liste entsprechend zu filtern. Kopieren Sie die Spieldaten aus dem Datenblatt in die Zwischenablage und fügen diese in Word, Excel oder sonst wo wieder ein um die Daten anschliessend zu formatieren oder weiterzuverarbeiten.
 
 ### Spielausleihen für Statistik nachbuchen
 
-Hier können Ausleihen, welche vor der LUPO-Zeit getätigt wurden nachgebucht werden, so dass die Anzahl Ausleihen und Gebühreneinnahmen eines Spieles stimmen. Tragen Sie die Spielnummer ein, mit **[Tab]** zum Feld Anzahl Ausleihen springen, dann mit **[Enter]** Ausleihen.
+Hier können Ausleihen, welche vor der LUPO-Zeit getätigt wurden nachgebucht werden, so dass die Anzahl Ausleihen und Gebühreneinnahmen eines Spieles stimmen. Tragen Sie die Spielnummer ein, mit **[Tab]** zum Feld Anzahl Ausleihen springen, dann mit <kbd>Enter</kbd> Ausleihen.
 
 ![statistik-nachbuchen](../../images/statistik-nachbuchen.png)

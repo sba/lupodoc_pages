@@ -40,7 +40,7 @@ Diese Aktion speichert im Tagesjournal alle Buchungen, die seit dem letzten Spei
 
 ![journal-speichern](../../images/journal-speichern.png)
 
-Wenn Sie die vorhergehende Frage mit <span class="btn">Ja</span> beantwortet haben öffnet sich das Tagesabschluss buchen Fenster:
+Wenn Sie die vorhergehende Frage mit <span class="btn-lupo">Ja</span> beantwortet haben öffnet sich das Tagesabschluss buchen Fenster:
 
 ![tagesabschluss-buchen](../../images/tagesabschluss-buchen.png)
 
@@ -58,6 +58,6 @@ Wenn die Kasse nicht stimmt (es ist zu viel oder zu wenig Geld in der Kasse) kan
 
 Die Tagesabschlussbuchung wird durchgeführt. Wenn das Häkchen Tagesjournal nach dem Buchen drucken gesetzt ist, werden so viele Exemplare wie in den Einstellungen => Diverses definiert sind auf den Drucker ausgegeben.
 
->>>
+!
 **Einstellung**  
 Der Bestand der Tageskasse sowie der Soll-Tageskasseninhalt kann unter **Einstellungen => Diverses** angepasst werden.

@@ -19,13 +19,13 @@ Starten Sie dazu das LUPO Update Programm ( -Taste drücken, dann nach LUPO Date
 
 ![daten-konvertieren](../../images/tabellen-konvertieren.png)
 
-Normalerweise müssen hier keine Einstellungen angepasst werden. Klicken Sie auf <span class="btn"> Tabellenupdate STARTEN</span> um den Vorgang auszuführen.
-Erscheint nachstehende Meldung und Sie bestätigen diese mit <span class="btn">Ja</span>,dann wird eine bereits vorhandene LUPO 2019 Daten-Datei überschrieben.
+Normalerweise müssen hier keine Einstellungen angepasst werden. Klicken Sie auf <span class="btn-lupo"> Tabellenupdate STARTEN</span> um den Vorgang auszuführen.
+Erscheint nachstehende Meldung und Sie bestätigen diese mit <span class="btn-lupo">Ja</span>,dann wird eine bereits vorhandene LUPO 2019 Daten-Datei überschrieben.
 
 ![tabelle-konvertieren-warning](../../images/tabellen-konvertieren-msg-warning.png)
 
->>>>> Beachten Sie das Updateprotokoll. Dort werden allfällige Probleme oder Fehler aufgelistet. Da LUPO 2019 die Daten teilweise ein bisschen anders speichert als bisher, kann es vorkommen, dass einige Datensätze nicht importiert werden können. Dabei handelt es meistens um verwaiste und somit nicht mehr benötigte Daten. (z. B. die Tabelle ‚Adressen Kinder‘ enthält oftmals solche Datensätze)
+!! Beachten Sie das Updateprotokoll. Dort werden allfällige Probleme oder Fehler aufgelistet. Da LUPO 2019 die Daten teilweise ein bisschen anders speichert als bisher, kann es vorkommen, dass einige Datensätze nicht importiert werden können. Dabei handelt es meistens um verwaiste und somit nicht mehr benötigte Daten. (z. B. die Tabelle ‚Adressen Kinder‘ enthält oftmals solche Datensätze)
 
 Nun sollten Sie das LUPO-Programm starten und kontrollieren, ob Ihre Daten übernommen wurden und ob es sich dabei um die aktuelle Datenbank handelt.
 
->>>>Überprüfen Sie ob auch wirklich alle alten LUPO 8/9/10/11 Desktop-Verknüpfungen entfernt wurden. Falls die alte Version beim Start von Windows automatisch gestartet wurde, muss die Verknüpfung in Autostart-Programmordner eventuell angepasst werden.
+!!! Überprüfen Sie ob auch wirklich alle alten LUPO 8/9/10/11 Desktop-Verknüpfungen entfernt wurden. Falls die alte Version beim Start von Windows automatisch gestartet wurde, muss die Verknüpfung in Autostart-Programmordner eventuell angepasst werden.

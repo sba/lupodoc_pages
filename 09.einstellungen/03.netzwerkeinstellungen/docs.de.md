@@ -17,7 +17,7 @@ In die Netzwerkeinstellungen gelangen Sie durch die Übersicht mit **Einstellung
 ![netzwerkeinstellungen-client](../../images/netzwerkeinstellungen-client.png)
 
 
->>>>> Der Computer, welcher die Daten über das Netzwerk liest (der Rücknahme-PC), kann nur verwendet werden, wenn der „Server" (Ausleih-PC) hochgefahren und angemeldet ist.
+!!! Der Computer, welcher die Daten über das Netzwerk liest (der Rücknahme-PC), kann nur verwendet werden, wenn der „Server" (Ausleih-PC) hochgefahren und angemeldet ist.
 
 #### Datenbank
 
@@ -27,7 +27,7 @@ Wählen Sie die LUPO Datenbank **Lupo10_Daten.accdb** über den Dateiwahl-Dialog
 
 Wenn Sie das Kontrollkästchen Der Ausleih- und Rücknahme Computer unterscheiden sich indem... aktivieren muss der eine Computer als Rücknahme- der andere als Ausleihstation definiert sein.
 
-Auf der Ausleihstation werden Spiele mit [Enter] im Spielnummerfeld immer ausgeliehen (gilt auch beim Einlesen von Barcodes), bei der Rückgabestation immer zurückgenommen.
+Auf der Ausleihstation werden Spiele mit <kbd>Enter</kbd> im Spielnummerfeld immer ausgeliehen (gilt auch beim Einlesen von Barcodes), bei der Rückgabestation immer zurückgenommen.
 
 Ist ein Spiel bereits ausgeliehen (und Sie weisen LUPO trotzdem an das Spiel auszuleihen) so erscheint folgende Meldung:
 
