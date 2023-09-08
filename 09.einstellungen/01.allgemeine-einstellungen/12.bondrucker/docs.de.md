@@ -18,12 +18,6 @@ Wählen Sie hier das von Ihnen verwendete Modell aus.
 
 Falls Sie mit zwei PC's im Netzwerk arbeiten und vom PC ohne Bondrucker auf den anderen gedruckt werden soll, dann muss das Häkchen Drucken im Netzwerk aktivieren gesetzt werden. Die Einstellung An diesem Computer ist ein Bondrucker angeschlossen muss auf jedem PC im Netzwerk entsprechend gesetzt werden.
 
-#### Setup POS-Version
-
-Das Häkchen EPSON SetupPOS Version 2.7 oder höher (CCO) muss mit der installierten Version korrespondieren. Für Bixolon / Metapace Bondrucker ist diese Einstellung bedeutungslos.
-
-Um den Bondrucker und die SetupPOS-Software zu installieren lesen Sie bitte die separate Anleitung.
-
 #### Logo auf dem Bon
 
 Das Logo ist in der monochromen (schwarz/weiss) Bitmap-Datei Logo_Bondrucker.bmp gespeichert und wird immer auf die volle Breite des Bons ausgedruckt. Soll das Logo verkleinert ausgedruckt werden, so wird dies durch Hinzufügen eines weissen Randes auf der linken und rechten Seite der Grafik erreicht.
@@ -37,7 +31,7 @@ Der Text wird zentriert unter dem Logo ausgedruckt. Wenn eine Zeile Text mit gro
 Dieser Text wird am Ende des Bons gedruckt. Falls Sie ein zweifarbiges (schwarz/rot) Druckerband verwenden (nur Nadeldrucker) kann der Text in der zweiten Farbe gedruckt werden. Bei einem Thermodrucker kann der Text optional fett ausgegeben werden.
 
 
-!!!! Die Texte werden zentriert ausgegeben. Möchten Sie den Text links oder rechts ausgerichtet haben, so kann dies durch auffüllen mit Leerzeichen erreicht werden.
+!!!! Die Texte werden zentriert ausgegeben. Möchten Sie den Text links oder rechts ausgerichtet haben, so kann dies durch Auffüllen mit Leerzeichen erreicht werden.
 
 #### Abo Ablauf-Datum anzeigen
 
@@ -58,6 +52,10 @@ Falls der Kunde Geld auf seinem Ausleihkonto hat, wird der Betrag auf den Bon ge
 #### Liste der ausgeliehenen Spiele anzeigen
 
 Definieren Sie hier die Darstellung der Liste mit den ausgeliehenen Spielen.
+
+#### Website Kundenlogin-Informationen
+
+Dieser Text wird dem Schlusstext angefügt. Es können die Platzhalter {{ADRNR}} und {{PASSWORT}} verwendet werden um die Login-Informationenauf den Bon zu drucken. Das kleine grüne Icon oberhalb des Textfeldes lädt den Standard-Text inkl. Platzhalter. 
 
 #### QR-Code
 

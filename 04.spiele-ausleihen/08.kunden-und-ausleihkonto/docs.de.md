@@ -11,7 +11,7 @@ Jeder Kunde hat zwei Konten, ein Kundenkonto und ein Ausleihkonto. Das Geld auf 
 ![kontostand](../../images/kontostand.png)
 
 ! **Einstellung**  
-! Das Feld Ausleihkonto und die Knöpfe **Gutschein verkaufen** und **Gutschein einlösen** können im Fenster **Einstellungen => Wertkarte** ein- bzw. ausgeblendet werden.
+! Das Feld Ausleihkonto und die Knöpfe <span class="btn-lupo">Gutschein verkaufen</span> und <span class="btn-lupo">Gutschein einlösen</span> können im Fenster **Einstellungen → [Wertkarte](/einstellungen/allgemeine-einstellungen/wertkarte-vorauszahlungen#meldung-gutschriftenkonto-aufgebraucht)** ein- bzw. ausgeblendet werden.
 
 ### Kunde bezahlt
 
@@ -19,8 +19,16 @@ Jeder Kunde hat zwei Konten, ein Kundenkonto und ein Ausleihkonto. Das Geld auf 
 
 Der Kunde bezahlt 20.00 Fr. Sein Kontostand wird wieder zu 0.00. Bezahlt er einen anderen Betrag, so können Sie diesen in das Textfeld eintragen. Bezahlt er zu wenig wird diese Zahlung als Teilzahlung, bezahlt er zu viel, als Vorauszahlung im Journal eingetragen.
 
-Normalerweise bezahlt der Kunde in Bar und es wird vom Kunden-Debitorenkonto (1100) in die Tageskasse (1000) gebucht. Wurde das Geld aber per Überweisung eingezahlt, so kann das Soll-Konto auf die Hauptkasse (PC- oder Bankkonto) geändert werden.
+Normalerweise bezahlt der Kunde in Bar und es wird vom Kunden-Debitorenkonto (1100) in die Tageskasse (1000) gebucht. Wurde das Geld aber per Überweisung eingezahlt, so kann das Soll-Konto (Ein) geändert werden. Es stehen zusätzlich die Kunden 1003, 1004 und 1009 zur Auswahl:
 
+| KONTO |  |
+| --- | --- | 
+| 1000 | Tageskasse |
+| 1003 | TWINT |
+| 1004 | SumUp |
+| 1009 | Bankkonto / Postkonto |
+
+**Nach dem Bezahlen Bon ausdrucken**  
 Falls Sie LUPO mit der Option Bondrucker installiert haben, besteht die Möglichkeit direkt nach dem Bezahlen den Bon auszudrucken.
 
 
@@ -41,7 +49,7 @@ Um dem Kunden eine Gutschrift zu machen, wählen Sie im Auswahlfeld rechts des B
 <span class="btn-lupo">Buchen</span> speichert die Buchung und verrechnet den Betrag dem Kunden. Der Buchungstext kann automatisch ins Kundenmemo übertragen werden.
 
 ! **Einstellung**  
-! Die Buchungs-Vorgaben können im Fenster **Übersicht => Buchhaltung => Buchungstexte** bearbeiten definiert werden.
+! Die Buchungs-Vorgaben können im Fenster **Übersicht → Buchhaltung → [Buchungstexte](/buchhaltung/buchungstexte-bearbeiten#buchungstext)** bearbeiten definiert werden.
 
 ### Liste aller Buchungen
 
@@ -91,6 +99,6 @@ Drücken Sie Gutschein einlösen um dem Kunden eine Gutschrift auf sein Ausleihk
 
 Sie haben (z.B. am Weihnachtsmarkt) 12 Karten als Geschenk verkauft, Sie wissen also noch nicht wer die Gutschrift einlöst. Wenn Sie diese Einnahmen in die Tageskasse legen müssen Sie das Geld auch verbuchen.
 
-Öffnen Sie dazu das Fenster **Übersicht => Buchhaltung => Einzelbuchung (mit Vorgaben)** und führen Sie folgende Buchung durch.
+Öffnen Sie dazu das Fenster **Übersicht → Buchhaltung → [Einzelbuchung (mit Vorgaben)](/buchhaltung/manuell-buchen-mit-vorgaben)** und führen Sie folgende Buchung durch.
 
 ![einzelbuchung](../../images/einzelbuchung.png)

@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-Das **Mitarbeiter Arbeitszeiten** Fenster kann mit dem Übersichtsbefehl **Übersicht => Adressen, Spiele und Mitarbeiter => Arbeitszeiten** geöffnet werden.
+Das **Mitarbeiter Arbeitszeiten** Fenster kann mit dem Übersichtsbefehl **Übersicht → Adressen, Spiele und Mitarbeiter → Arbeitszeiten** geöffnet werden.
 
 ![mitarbeiter-arbeitszeiten](../../images/mitarbeiter-arbeitszeiten.png)
 
@@ -19,3 +19,4 @@ Sind bereits Arbeitszeiten im aktuellen Monat erfasst worden, so werden diese au
 ![arbeitszeit-erfassen](../../images/arbeitszeit-erfassen.png)
 
 Sie können einen Mitarbeiter und die Tätigkeit auswählen und die Arbeitszeit eintragen (2.50 = 2h 30min). Die Einträge erscheinen auf dem Tagesjournal-Ausdruck.
+Sollen Arbeitszeiten für ein anderes Datum als das heutige erfasst werden, so kann das Datum beliebig angepasst werden. 

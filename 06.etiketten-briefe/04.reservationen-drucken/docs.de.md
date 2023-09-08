@@ -10,7 +10,7 @@ Das **Reservationen drucken** Fenster kann mit der **Übersicht** oder beim **Be
 
 ![reservationen-drucken](../../images/reservationen-drucken.png)
 
-Sobald ein Spiel einer Reservation eingetroffen ist, kann der Reservationsbrief erstellt und gedruckt oder per Email an den Kunden geschickt werden.
+Sobald ein Spiel einer Reservation eingetroffen ist, kann der Reservationsbrief erstellt und gedruckt oder per E-Mail an den Kunden geschickt werden.
 
 In der Liste werden verschiedene Farben angezeigt:
 
@@ -19,8 +19,8 @@ In der Liste werden verschiedene Farben angezeigt:
 | Seit 2 Tagen |  Das Spiel ist in der Ludothek und abholbereit |  
 | Reserviert ab [Datum] |  Wenn die Reservation nicht ab einem Datum sondern ab sofort gilt |  
 | Reserviert ab [Datum] |  Das Datum liegt in der Vergangenheit, das Spiel ist verspätet |  
-| Kunde |  Alle reservierten Spiele des Kunden sind eingetroffen => Kunde informieren |  
-| Kunde |  Alle reservierten Spiele des Kunden sind eingetroffen => Kunde ist informiert | 
+| Kunde |  Alle reservierten Spiele des Kunden sind eingetroffen → Kunde informieren |  
+| Kunde |  Alle reservierten Spiele des Kunden sind eingetroffen → Kunde ist informiert | 
 
 Die Funktionen zum Kunden und die Spiel-Reservationen links im Navigationsbereich sind abhängig von der in der Liste ausgewählten Reservation.
 
@@ -30,11 +30,11 @@ Das Feld Reservierte Spiele zeigt **[Total Reservationen] / [Eingetroffene Spiel
 
 ### Brief anzeigen
 
-Zeigt den Reservationsbrief des Kunden in Seitenansicht an. Ab dem Moment vom Anzeigen des Reservationsbriefes oder senden des Emails gilt der Kunde als informiert und die in den Einstellungen definierte Abholfrist beginnt zu laufen. Wird der Brief erneut angezeigt beginnt die Frist von vorne.
+Zeigt den Reservationsbrief des Kunden in Seitenansicht an. Ab dem Moment vom Anzeigen des Reservationsbriefes oder senden des E-Mails gilt der Kunde als informiert und die in den Einstellungen definierte Abholfrist beginnt zu laufen. Wird der Brief erneut angezeigt beginnt die Frist von vorne.
 
-### Email senden
+### E-Mail senden
 
-Diese Funktion steht bei aktivierter Email-Unterstützung und für Kunden mit Emailadresse zur Verfügung.
+Diese Funktion steht bei aktivierter E-Mail-Unterstützung und für Kunden mit E-Mailadresse zur Verfügung.
 
 ### Reservationen löschen
 

@@ -6,22 +6,23 @@ taxonomy:
 visible: true
 ---
 
-Das **Spiele ausleihen und zurücknehmen** Fenster können Sie mit der Übersicht oder der Symbolleiste öffnen.
-* Die wichtigsten Aktionen, welche Sie in diesem Fenster durchführen können sind:
-    * Spiele ausleihen und zurücknehmen
-    * Spiele verlängern
-    * Spiele reservieren
-    * Abonnement (Mitgliederbeitrag) verkaufen
-    * Dem Kunden einen Betrag verrechnen oder zurückerstatten
-    * Gutscheinkarte (Vorauszahlung) verkaufen und einlösen
-    * Die Adressdaten des Kunden verändern
-    * Einen neuen Kunden erfassen
+Das **Spiele ausleihen und zurücknehmen** Fenster können Sie via Übersicht oder mit der Symbolleiste öffnen.
+
+**Die wichtigsten Aktionen in diesem Fenster sind:**
+* Spiele ausleihen und zurücknehmen
+* Spiele verlängern
+* Spiele reservieren
+* Abonnement (Mitgliederbeitrag) verkaufen
+* Dem Kunden einen Betrag verrechnen oder zurückerstatten
+* Gutscheinkarte (Vorauszahlung) verkaufen und einlösen
+* Die Adressdaten des Kunden verändern
+* Einen neuen Kunden erfassen
 
 ![spiele-ausleihen-zuruecknehmen](../../images/spiele-ausleihen-zuruecknehmen.png)
 
 #### Rückgabedatum bestimmen (Stempeldatum)
 
-Die Spiele, welche Sie ausleihen, erhalten das im Feld Aktuelles Rückgabedatum eingetragene Datum. Das Rückgabedatum wird standardmässig auf **[heute] + [Anzahl eingestellte Tage]** vorgeschlagen. Die Anzahl der vorgeschlagenen Ausleihtage können Sie in den **Einstellungen => Ausleihen** ändern. Sie können das vorgeschlagene Rückgabedatum auf ein x-beliebiges Datum ändern. Doppelklicken Sie auf das Datum um den **Kalender** zu öffnen.
+Die Spiele, welche Sie ausleihen, erhalten das im Feld Aktuelles Rückgabedatum eingetragene Datum. Das Rückgabedatum wird standardmässig auf **[heute] + [Anzahl eingestellte Tage]** vorgeschlagen. Die Anzahl der vorgeschlagenen Ausleihtage können Sie in den **Einstellungen → [Ausleihen](/einstellungen/allgemeine-einstellungen/ausleihen)** ändern. Sie können das vorgeschlagene Rückgabedatum auf ein x-beliebiges Datum ändern. Doppelklicken Sie auf das Datum um den **Kalender** zu öffnen.
 
 Unter dem Rückgabedatum werden die Anzahl Spiele angezeigt, welche heute ausgeliehen wurden. In der zweiten Zeile bei Rückgabedatum heute wird die Summe der Spiele, welche theoretisch am heutigen Tag zurückgebracht werden angezeigt.
 

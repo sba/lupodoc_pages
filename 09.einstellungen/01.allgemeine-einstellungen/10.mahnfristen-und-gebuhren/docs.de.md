@@ -12,7 +12,7 @@ Bringt der Kunde seine Spiele bis zum Überschreiten des Mahndatums nicht zurüc
 
 #### Mahnfristen
 
-**Erinnerung vor Fristende:** Ist das Häkchen Als Email senden aktiviert so kann an Kunden mit einer Emailadresse eine Erinnerung gesendet werden. Es werden Spiele berücksichtigt, deren Rückgabedatum in maximal X Tagen ist und das Mahndatum noch nicht erreicht wurde.
+**Erinnerung vor Fristende:** Ist das Häkchen Als E-Mail senden aktiviert so kann an Kunden mit einer E-Mailadresse eine Erinnerung gesendet werden. Es werden Spiele berücksichtigt, deren Rückgabedatum in maximal X Tagen ist und das Mahndatum noch nicht erreicht wurde.
 
 Beispiel mit Einstellung „Erinnerung vor Fristende: 4 Tage", „Frist bis 1. Mahnung: 7 Tage": Wenn heute der 10.02.2014 ist wird für alle Spiele mit Rückgabedatum zwischen 04.02.2014 und 14.02.2014 eine Erinnerung erstellt. Spiele mit Rückgabedatum 03.02.2014 werden bereits gemahnt.
 
@@ -36,17 +36,9 @@ Für jede Mahnstufe kann definiert werden, ob neben der Schreibgebühr auch noch
 
 Da dem Kunden beim Mahnen die Strafgebühren direkt auf sein Konto belastet werden, und im Ausleihfenster nicht sofort ersichtlich ist, weshalb der Kunde Schulden hat, kann automatisch ein Text in das Kundenmemo geschrieben werden.
 
-#### Kunden-Kontostand anzeigen
-
-Falls der Kunde noch weitere Schulden bei der Ludothek hat als nur die bereits verrechnete Mahngebühr so wird dieser Betrag auf dem Mahnbrief angezeigt.
-
 #### Effektiv bezahlte Gebühr verrechnen
 
 Falls Mahngebühren pro Spiel verrechnet werden, so stellt sich die Frage, ob nun die zum Spiel definierte Gebühr verrechnet werden soll oder die effektiv vom Kunden bezahlte. Die effektiv vom Kunden bezahlte Gebühr kann von der Standard-Spielgebühr abweichen, wenn sie Spezial-Ausleihen verwenden.
-
-#### Maximal drei Mahnungen automatisch erstellen
-
-Ist diese Option aktiviert, so wird nach der dritten Mahnung keine vierte und weitere Mahnung mehr erstellt. Das Spiel bleibt allerdings als gemahnt in der Liste.
 
 #### MitarbeiterInnen oder Kunden nicht Mahnen
 

@@ -28,7 +28,7 @@ Falls bei gewissen Kunden (z.B. Institutionen) keine Mahngebühr verrechnet werd
 
 #### Keine Werbung
 
-Falls der Kunde keine Werbe-Newsletter auf seine Emailadresse wünscht.
+Falls der Kunde keine Werbe-Newsletter auf seine E-Mailadresse wünscht.
 
 #### Anzahl Spiele / Anzahl eSpiele
 
@@ -53,7 +53,7 @@ In dieses Feld können die Kinder mit Vorname und Geburtsdatum / Jahrgang oder d
 
 
 ! **Einstellung**  
-! Falls Sie die Kinder der Familie nicht erfassen möchten, so kann diese Tabelle unter **Einstellungen => Diverses** ausgeblendet werden.
+! Falls Sie die Kinder der Familie nicht erfassen möchten, so kann diese Tabelle unter **Einstellungen → [Diverses](/einstellungen/allgemeine-einstellungen/diverses)** ausgeblendet werden.
 
 #### Neue Adresse
 
@@ -63,7 +63,7 @@ Beim Erfassen einer neuen Adresse wird automatisch die nächst Grösste Nummer v
 
 Adressen können gelöscht bzw. deaktiviert werden. Wenn Sie eine Adresse löschen, verschwindet diese aus allen Adresslisten. Sie wird aber nur komplett aus der Datenbank gelöscht, wenn mit dieser Adresse nie ein Spiel ausgeliehen wurde, ansonsten wird die Adresse nur versteckt (aus statistischen Gründen).
 
-Versteckte Adressen können Sie anzeigen, indem Sie den Knopf <span class="btn-lupo">Nur gelöschte Adressen anzeigen</span> unterhalb der Suchliste drücken. Um die Adresse wiederherzustellen drücken Sie den Knopf <span class="btn-lupo">Adresse wiederherstellen</span>.
+Versteckte Adressen können Sie anzeigen, indem Sie den Knopf <span class="btn-lupo">Nur&nbsp;gelöschte&nbsp;Adressen&nbsp;anzeigen</span> unterhalb der Suchliste drücken. Um die Adresse wiederherzustellen drücken Sie den Knopf <span class="btn-lupo">Adresse&nbsp;wiederherstellen</span>.
 
 #### Adressen endgültig löschen
 
