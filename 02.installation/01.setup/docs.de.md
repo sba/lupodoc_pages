@@ -12,11 +12,11 @@ Starten Sie die Datei **Setup_Lupo2023_de.exe** um mit der Installation zu begin
 
 ![Install](../../images/install-welcome.png)
 
-Klicken Sie auf **Weiter** ⭢ bis folgendes Fenster angezeigt wird:
+Klicken Sie auf <span class="btn-lupo">Weiter ></span> bis folgendes Fenster angezeigt wird:
 
 ![Install](../../images/install-components.png)
 
-Ist unter Komponenten LUPO 12 entfernen angewählt so wird der Programmordner (C:\\Lupo12) und die Access Runtime Installation vor der Installation von LUPO 12 entfernt. Benutzer Dateien (Datenbank und Logos) bleiben dabei erhalten. Dasselbe gilt für eine allfällige ältere LUPO-Installation.
+Ist unter Komponenten LUPO 12 entfernen angewählt, so wird der Programmordner (C:\\Lupo12) und die installierte Access Runtime vor der Installation von LUPO 13 entfernt. Benutzer Dateien (Datenbank und Logos) bleiben dabei erhalten. Dasselbe gilt für eine allfällige ältere LUPO-Installation.
 
 Zusammen mit LUPO kann optional auch die Software für EPSON Bondrucker (detaillierte Informationen dazu sind in der separaten Anleitung zu finden), WinRAR (ein Tool zum Öffnen von LUPO-Datensicherungen) und der Adobe Reader (um pdf-Dateien anzuzeigen) installiert werden. Aktivieren Sie dazu im Dialog Komponenten auswählen die gewünschten Komponenten.
 
