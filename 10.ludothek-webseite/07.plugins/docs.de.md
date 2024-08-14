@@ -64,5 +64,5 @@ Um mehrere Spiele anzuzeigen, wird der Platzhalter **[spiel SPIELNUMMER_1;SPIELN
 
 Mit diesem Plugin kann die Datenschutzerklärung im Text eingefügt werden.
 
-Unter **Erweiterungen → Plugins** bei den Plugin-Optionen kann die Datenschutzerklärung definiert werden:
+Bei den Plugin-Optionen kann definiert werden, welche Abschnitte der Datenschutzerklärung angezeigt werden sollen.
 
