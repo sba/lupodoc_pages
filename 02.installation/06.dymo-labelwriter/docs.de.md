@@ -57,6 +57,8 @@ Gültige Objektnamen, welche von LUPO mit Inhalt gefüllt werden können
 * KATALOGPREIS
 * BESCHREIBUNG
 * BESCHREIBUNG-TITEL
+* URL _(Erklärvideo URL)_
+* URL_BESCHREIBUNG
 
 **Kunden-Barcode**
 * LUDOTHEK
