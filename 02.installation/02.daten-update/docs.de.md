@@ -28,4 +28,4 @@ Erscheint nachstehende Meldung und Sie bestätigen diese mit <span class="btn-lu
 
 Nun sollten Sie das LUPO-Programm starten und kontrollieren, ob Ihre Daten übernommen wurden und ob es sich dabei um die aktuelle Datenbank handelt.
 
-!!! Überprüfen Sie ob auch wirklich alle alten LUPO 10/11/12 Desktop-Verknüpfungen entfernt wurden. Falls die alte Version beim Start von Windows automatisch gestartet wurde, muss die Verknüpfung in Autostart-Programmordner angepasst werden.
+!!! Überprüfen Sie, ob auch wirklich alle alten LUPO 10/11/12 Desktop-Verknüpfungen entfernt wurden. Falls die alte Version beim Start von Windows automatisch gestartet wurde, muss die Verknüpfung in Autostart-Programmordner angepasst werden.
